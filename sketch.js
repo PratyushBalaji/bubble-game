@@ -1,7 +1,6 @@
 function preload() {
     laserSound = loadSound('laser.ogg');
     deathSound = loadSound('death.ogg');
-    bg = loadImage('bg.jpg');
     sprite = loadImage('bg.jpg')
 }
 
